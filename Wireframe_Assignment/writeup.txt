@@ -10,3 +10,6 @@ screens.
 In the desktop view, the layout expands horizontally. The logo and
 navigation appear at the top, and the content is divided into two
 columns (image and text). The footer remains at the bottom.
+In the desktop view, the layout expands horizontally. The logo and
+navigation appear at the top, and the content is divided into two
+columns (image and text). The footer remains at the bottom.
